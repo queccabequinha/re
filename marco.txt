@@ -1,0 +1,48 @@
+</head>
+
+<body>
+   <font face="Arial">
+   <h1>Cabeçalho 1</h1>
+   <h2>Cabeçalho 2</h2>
+   <h3>Cabeçalho 3</h3>
+   <h4>Cabeçalho 4</h4>
+
+
+   Nome: <font size="6"><b>rebecca da silva<i>pontes</i></b></font><br>
+   E-mail: <i>rebeccasilva.angel@gmail.com</i><br>
+   Prontuário: CB3024041<br><br>
+   Histórico escolar:<br>
+   <ul>
+    EMEF Pastor Joaquim Rodrigues da Silva - 1 ano - FUNDAMENTAL - 2014
+    EMEF Pastor Joaquim Rodrigues da Silva - 2° ano - FUNDAMENTAL - 2015
+    EMEF Pastor Joaquim Rodrigues da Silva - 3° ano - FUNDAMENTAL - 2016
+    EMEF Pastor Joaquim Rodrigues da Silva - 4° ano - FUNDAMENTAL - 2017
+    EMEF Pastor Joaquim Rodrigues da Silva - 5° ano - FUNDAMENTAL - 2018
+    EMEF Pastor Joaquim Rodrigues da Silva - 6° ano - FUNDAMENTAL - 2019
+    EMEF Pastor Joaquim Rodrigues da Silva - 7° ano - FUNDAMENTAL - 2020
+    EMEF Pastor Joaquim Rodrigues da Silva - 8° ano - FUNDAMENTAL - 2021
+    EMEF Pastor Joaquim Rodrigues da Silva - 9° ano - FUNDAMENTAL - 2022
+    
+    <li> ESTA ALUNA CURSOU E COMPLETOU O ENSINO FUNDAMENTAL 1 e 2.
+    </ul>
+
+   <hr>
+
+   Hobbies:<br>
+   <ul>
+   <li>Ler</li>
+   <li>academia</li>
+   <li>Música</li>
+   <li>cozinhar</li>
+   </ul>
+
+   Pratos preferidos:<br>
+   <ol>
+   <li>peixe frito</li>
+   <li>Frango empanado</li>
+   <li>bolinho de arroz</li>
+   </ol>
+   </font>
+</body>
+
+</html>
